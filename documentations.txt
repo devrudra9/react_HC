@@ -3,3 +3,5 @@ https://github.com/acdlite/react-fiber-architecture
 https://react.dev/learn
 
 https://vitejs.dev/guide/
+
+https://tailwindcss.com/docs/installation
