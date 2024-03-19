@@ -5,3 +5,5 @@ https://react.dev/learn
 https://vitejs.dev/guide/
 
 https://tailwindcss.com/docs/installation
+
+https://www.bacancytechnology.com/blog/react/
